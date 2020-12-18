@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* тут
+* https://github.com/Chikhareva/Precision/issues/1
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
@@ -30,3 +30,4 @@
 * openjdk version "11.0.9.1" 2020-11-04
 * OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
 * OpenJDK Client VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
+* IntelliJ IDEA Community Edition 2019.3.5
